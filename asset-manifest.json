@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gymlandpage/static/css/main.c8026b2d.css",
+    "main.js": "/gymlandpage/static/js/main.41e61810.js",
+    "static/media/team2p.jpg": "/gymlandpage/static/media/team2p.d27403a525a37cb5c7f4.jpg",
+    "static/media/boxp.jpg": "/gymlandpage/static/media/boxp.49c0c43d8fe259680315.jpg",
+    "static/media/gymb2.jpg": "/gymlandpage/static/media/gymb2.ed8dade550be6a9ecb23.jpg",
+    "static/media/teamp.jpg": "/gymlandpage/static/media/teamp.1bcc268e47af6b7eae94.jpg",
+    "static/media/sjp.avif": "/gymlandpage/static/media/sjp.a16219efeaf3d94852db.avif",
+    "static/media/fitnessp.avif": "/gymlandpage/static/media/fitnessp.ef05a2d5ee8b38620471.avif",
+    "static/media/team3p.jpg": "/gymlandpage/static/media/team3p.58aff973a0bc453f4c0d.jpg",
+    "static/media/zumbap.avif": "/gymlandpage/static/media/zumbap.31a2cabb6cda82ff4c7b.avif",
+    "static/media/yogap.avif": "/gymlandpage/static/media/yogap.7fa47ee1dbcfb2891795.avif",
+    "static/media/liftingp.webp": "/gymlandpage/static/media/liftingp.ec8f389a5c35c9e90077.webp",
+    "static/media/slick.svg": "/gymlandpage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gymlandpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gymlandpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gymlandpage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gymlandpage/index.html",
+    "main.c8026b2d.css.map": "/gymlandpage/static/css/main.c8026b2d.css.map",
+    "main.41e61810.js.map": "/gymlandpage/static/js/main.41e61810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8026b2d.css",
+    "static/js/main.41e61810.js"
+  ]
+}
